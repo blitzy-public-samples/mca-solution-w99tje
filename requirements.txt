@@ -1,0 +1,40 @@
+fastapi==0.68.0
+
+# Uvicorn - ASGI server implementation, for running the FastAPI application
+uvicorn==0.15.0
+
+# SQLAlchemy - SQL toolkit and Object-Relational Mapping (ORM) library
+sqlalchemy==1.4.23
+
+# Alembic - Database migration tool for SQLAlchemy
+alembic==1.7.1
+
+# Psycopg2-binary - PostgreSQL adapter for Python
+psycopg2-binary==2.9.1
+
+# Pydantic - Data validation and settings management using Python type annotations
+pydantic==1.8.2
+
+# Python-multipart - Streaming multipart parser for Python
+python-multipart==0.0.5
+
+# Python-jose - JavaScript Object Signing and Encryption (JOSE) implementation
+python-jose==3.3.0
+
+# Passlib - Password hashing library
+passlib==1.7.4
+
+# Boto3 - Amazon Web Services (AWS) SDK for Python
+boto3==1.18.44
+
+# Requests - HTTP library for making requests
+requests==2.26.0
+
+# Pytest - Testing framework
+pytest==6.2.5
+
+# Pytest-asyncio - Pytest plugin for testing asyncio code
+pytest-asyncio==0.15.1
+
+# Aiofiles - File support for asyncio
+aiofiles==0.7.0
