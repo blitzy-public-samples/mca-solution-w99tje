@@ -1,0 +1,36 @@
+*.py[cod]
+__pycache__/
+*.so
+
+# Virtual Environment
+venv/
+env/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# Logs and Databases
+*.log
+*.sqlite3
+
+# Environment Variables
+.env
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+
+# Docker
+docker-compose.override.yml
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
